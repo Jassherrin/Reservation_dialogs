@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Enter your name</string>
+    <string name="telephone">Telephone</string>
+    <string name="size">Size</string>
+    <string name="smoke">Smoking</string>
+    <string name="reserve">Reserve</string>
+    <string name="reset">Reset</string>
+    <string name="click_here_to_select_time">Click here to select time</string>
+    <string name="click_here_to_select_day">Click here to select day</string>
+</resources>
